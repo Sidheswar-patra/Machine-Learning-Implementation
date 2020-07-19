@@ -8,8 +8,8 @@ Dataset Used:
 https://smoosavi.org/datasets/us_accidents 
 
 Algorithms Used:
-Logistic Regression 
-Decision Tree
-AdaBoost
-K-Nearest Neighbours
+Logistic Regression, 
+Decision Tree,
+AdaBoost,
+K-Nearest Neighbours,
 Random Forest
